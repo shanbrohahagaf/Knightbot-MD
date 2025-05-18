@@ -1,0 +1,328 @@
+--------- beginning of main
+05-13 18:08:57.530 11635 11665 I CameraManagerGlobal: Connecting to camera service
+05-13 18:08:57.538 11635 11665 W ziparchive: Unable to open '/system/framework/HxyHookFactory.dm': No such file or directory
+05-13 18:08:57.538 11635 11665 W ziparchive: Unable to open '/system/framework/HxyHookFactory.dm': No such file or directory
+05-13 18:08:57.548 11635 11656 W AudioCapabilities: Unsupported mime audio/x-adpcm-dvi-ima
+05-13 18:08:57.548 11635 11656 W AudioCapabilities: Unsupported mime audio/x-adpcm-dvi-ima
+05-13 18:08:57.549 11635 11656 W AudioCapabilities: Unsupported mime audio/x-adpcm-ms
+05-13 18:08:57.549 11635 11656 W AudioCapabilities: Unsupported mime audio/x-adpcm-ms
+05-13 18:08:57.550 11635 11656 W AudioCapabilities: Unsupported mime audio/alac
+05-13 18:08:57.550 11635 11656 W AudioCapabilities: Unsupported mime audio/alac
+05-13 18:08:57.551 11635 11656 W AudioCapabilities: Unsupported mime audio/ape
+05-13 18:08:57.553 11635 11656 W AudioCapabilities: Unsupported mime audio/ape
+05-13 18:08:57.573 11635 11668 D CameraManager2: GotArray:0
+05-13 18:08:57.574 11635 11668 D CameraManager2: GotArray:1
+05-13 18:08:57.574 11635 11668 D CameraManager2: GotArray:2
+05-13 18:08:57.582 11635 11656 W VideoCapabilities: Unrecognized profile/level 32768/256 for video/mp4v-es
+05-13 18:08:57.583 11635 11635 D CompatibilityChangeReporter: Compat change id reported: 210923482; UID 10174; state: DISABLED
+05-13 18:08:57.583 11635 11635 D CompatibilityChangeReporter: Compat change id reported: 37756858; UID 10174; state: ENABLED
+05-13 18:08:57.590 11635 11670 D CameraManager2: GotArray:0
+05-13 18:08:57.592 11635 11670 D CameraManager2: GotArray:1
+05-13 18:08:57.593 11635 11670 D CameraManager2: GotArray:2
+05-13 18:08:57.593 11635 11656 W VideoCapabilities: Unrecognized profile/level 32768/256 for video/mp4v-es
+05-13 18:08:57.598 11635 11656 W VideoCapabilities: Unsupported mime video/x-ms-wmv
+05-13 18:08:57.598 11635 11656 W VideoCapabilities: Unsupported mime video/x-ms-wmv
+05-13 18:08:57.606 11635 11670 D CameraManager2: GotArray:0
+05-13 18:08:57.607 11635 11670 D CameraManager2: GotArray:1
+05-13 18:08:57.608 11635 11670 D CameraManager2: GotArray:2
+05-13 18:08:57.620 11635 11670 D CameraManager2: GotArray:0
+05-13 18:08:57.620 11635 11670 D CameraManager2: GotArray:1
+05-13 18:08:57.620 11635 11670 D CameraManager2: GotArray:2
+05-13 18:08:57.629 11635 11670 D CameraManager2: GotArray:0
+05-13 18:08:57.631 11635 11670 D CameraManager2: GotArray:1
+05-13 18:08:57.631 11635 11670 D CameraManager2: GotArray:2
+05-13 18:08:57.645 11635 11656 W CAM_A   : This apk does NOT targets R but it may be running on android build: TP1A.220624.014 2023165 which  has a fix for b/149569689.  See go/gca-rvc-migration-plan for details. You must use a more recent GCA apk after cl/307677912
+05-13 18:08:57.654 11635 11656 D CameraManager2: GotArray:0
+05-13 18:08:57.654 11635 11656 D CameraManager2: GotArray:1
+05-13 18:08:57.654 11635 11656 D CameraManager2: GotArray:2
+05-13 18:08:57.826 11635 11635 I DeezNuts: MSG: SLIDER 1 FOCUS: 1.0E-4
+05-13 18:08:57.826 11635 11635 I ProReC  : setprogres0
+05-13 18:08:57.827 11635 11635 I DeezNuts: MSG: SLIDER 0 IDX: 0
+05-13 18:08:57.827 11635 11635 I ProReC  : setprogres_iso0
+05-13 18:08:57.828 11635 11635 I za.defcomk.prorec.cust2.RotSeek: setprogres_iso0
+05-13 18:08:57.833 11635 11635 D CompatibilityChangeReporter: Compat change id reported: 171228096; UID 10174; state: ENABLED
+05-13 18:08:57.842 11635 11635 I MSYNC3-VariableRefreshRate: Variable refreshrate is disabled
+05-13 18:08:57.858 11635 11695 D nativeloader: Load libpowerhalwrap_jni.so using system ns (caller=/system/framework/mediatek-framework.jar): ok
+05-13 18:08:57.859 11635 11695 I PowerHalWrapper: PowerHalWrapper.getInstance 
+05-13 18:08:57.932 11635 11635 I SurfaceFactory: [static] sSurfaceFactory = com.mediatek.view.impl.SurfaceFactoryImpl@3542834
+05-13 18:08:57.946 11635 11635 D VRI[CameraLauncher]: hardware acceleration = true, forceHwAccelerated = false
+05-13 18:08:57.958 11635 11635 D libMEOW : meow new tls: 0x7bf5022090
+05-13 18:08:57.958 11635 11635 D libMEOW : applied 1 plugins for [com.google.android.GoogleCameraEng]:
+05-13 18:08:57.958 11635 11635 D libMEOW :   plugin 1: [libMEOW_gift.so]: 0xb400007bb4fa7840
+05-13 18:08:57.959 11635 11635 D libMEOW : rebuild call chain: 0x7bf5012080
+05-13 18:08:57.961 11635 11635 D InputTransport: Create ARC handle: 0x7a14ffe5a0
+05-13 18:08:58.033 11635 11668 D CameraManager2: GotArray:0
+05-13 18:08:58.033 11635 11668 D CameraManager2: GotArray:1
+05-13 18:08:58.034 11635 11668 D CameraManager2: GotArray:2
+05-13 18:08:58.044 11635 11635 D BufferQueueConsumer: [](id:2d7300000000,api:0,p:-1,c:11635) connect: controlledByApp=false
+05-13 18:08:58.049 11635 11635 E FBI     : Can't load library: dlopen failed: library "libmagtsync.so" not found
+05-13 18:08:58.052 11635 11657 D libMEOW : meow new tls: 0x7bf50620d0
+05-13 18:08:58.052 11635 11657 D libMEOW : applied 1 plugins for [com.google.android.GoogleCameraEng]:
+05-13 18:08:58.052 11635 11657 D libMEOW :   plugin 1: [libMEOW_gift.so]: 0xb400007bb4fa7840
+05-13 18:08:58.053 11635 11657 D libMEOW : rebuild call chain: 0x7bf50720e0
+05-13 18:08:58.083 11635 11657 D skia    : GrGLMakeAssembledInterface verStr OpenGL ES 3.2 build 1.15@6070602
+05-13 18:08:58.083 11635 11657 D skia    : GrGLMakeAssembledGLESInterface verStr OpenGL ES 3.2 build 1.15@6070602
+05-13 18:08:58.083 11635 11657 D skia    : extensions init verString=OpenGL ES 3.2 build 1.15@6070602
+05-13 18:08:58.115 11635 11698 E ion     : ioctl c0044901 failed with code -1: Invalid argument
+05-13 18:08:58.141 11635 11654 W ProtoDataStoreFlagStore: Unable to retrieve flag snapshot for com.google.android.libraries.consentverifier#com.google.android.GoogleCameraEng, using defaults.
+05-13 18:08:58.196 11635 11657 D BLASTBufferQueue: [VRI[CameraLauncher]#0](f:0,a:1) acquireNextBufferLocked size=720x1600 mFrameNumber=1 applyTransaction=true mTimestamp=1963360380731(auto) mPendingTransactions.size=0 graphicBufferId=49971944488961 transform=0
+05-13 18:08:58.202 11635 11657 W Parcel  : Expecting binder but got null!
+05-13 18:08:58.207 11635 11635 W CAM_A   : Was already registered as ThermalStatusListener on AppStart
+05-13 18:08:58.415 11635 11638 W GoogleCameraEng: Missing inline cache for qzd mdq.c()
+05-13 18:08:58.415 11635 11638 W GoogleCameraEng: Missing inline cache for qzd mdq.c()
+05-13 18:08:58.416 11635 11638 W GoogleCameraEng: Missing inline cache for qzd mdq.c()
+05-13 18:08:58.567 11635 11638 W GoogleCameraEng: Missing inline cache for java.util.Map mdq.e(java.util.List, oom)
+05-13 18:08:59.572 11635 11635 W GcaGeneric-2: type=1400 audit(0.0:327): avc: granted { execute } for path="/data/user/0/com.google.android.GoogleCameraEng/files/libpatched_jni.so" dev="dm-39" ino=1049272 scontext=u:r:untrusted_app_29:s0:c174,c256,c512,c768 tcontext=u:object_r:app_data_file:s0:c174,c256,c512,c768 tclass=file app=com.google.android.GoogleCameraEng
+05-13 18:08:59.603 11635 11665 D nativeloader: Load /data/user/0/com.google.android.GoogleCameraEng/files/libpatched_jni.so using ns clns-4 from class loader (caller=/data/app/~~2rFxjb97BigRaUH5lhf9Rw==/com.google.android.GoogleCameraEng-oVl4JJPWoBxi_6NGAqxJLQ==/base.apk): ok
+05-13 18:08:59.616 11635 11665 D nativeloader: Load /data/app/~~2rFxjb97BigRaUH5lhf9Rw==/com.google.android.GoogleCameraEng-oVl4JJPWoBxi_6NGAqxJLQ==/lib/arm64/libpairipcoreX.so using ns clns-4 from class loader (caller=/data/app/~~2rFxjb97BigRaUH5lhf9Rw==/com.google.android.GoogleCameraEng-oVl4JJPWoBxi_6NGAqxJLQ==/base.apk!classes2.dex): ok
+05-13 18:08:59.620 11635 11635 W 00UiWorker: type=1400 audit(0.0:328): avc: granted { execute } for path="/data/user/0/com.google.android.GoogleCameraEng/files/libpatched_jni.so" dev="dm-39" ino=1049272 scontext=u:r:untrusted_app_29:s0:c174,c256,c512,c768 tcontext=u:object_r:app_data_file:s0:c174,c256,c512,c768 tclass=file app=com.google.android.GoogleCameraEng
+05-13 18:08:59.620 11635 11635 W GcaGeneric-2: type=1400 audit(0.0:329): avc: granted { execute } for path="/data/user/0/com.google.android.GoogleCameraEng/files/libpatched_jni.so" dev="dm-39" ino=1049272 scontext=u:r:untrusted_app_29:s0:c174,c256,c512,c768 tcontext=u:object_r:app_data_file:s0:c174,c256,c512,c768 tclass=file app=com.google.android.GoogleCameraEng
+05-13 18:08:59.624 11635 11635 W 00UiWorker: type=1400 audit(0.0:330): avc: granted { execute } for path="/data/user/0/com.google.android.GoogleCameraEng/files/libpatched_jni.so" dev="dm-39" ino=1049272 scontext=u:r:untrusted_app_29:s0:c174,c256,c512,c768 tcontext=u:object_r:app_data_file:s0:c174,c256,c512,c768 tclass=file app=com.google.android.GoogleCameraEng
+05-13 18:08:59.624 11635 11635 W GcaGeneric-2: type=1400 audit(0.0:331): avc: granted { execute } for path="/data/user/0/com.google.android.GoogleCameraEng/files/libpatched_jni.so" dev="dm-39" ino=1049272 scontext=u:r:untrusted_app_29:s0:c174,c256,c512,c768 tcontext=u:object_r:app_data_file:s0:c174,c256,c512,c768 tclass=file app=com.google.android.GoogleCameraEng
+05-13 18:08:59.642 11635 11668 D CameraManager2: GotArray:0
+05-13 18:08:59.643 11635 11668 D CameraManager2: GotArray:1
+05-13 18:08:59.643 11635 11668 D CameraManager2: GotArray:2
+05-13 18:08:59.679 11635 11668 D nativeloader: Load /data/app/~~2rFxjb97BigRaUH5lhf9Rw==/com.google.android.GoogleCameraEng-oVl4JJPWoBxi_6NGAqxJLQ==/lib/arm64/libagc.so using ns clns-4 from class loader (caller=/data/app/~~2rFxjb97BigRaUH5lhf9Rw==/com.google.android.GoogleCameraEng-oVl4JJPWoBxi_6NGAqxJLQ==/base.apk!classes2.dex): ok
+05-13 18:08:59.732 11635 11635 W GcaGeneric-1: type=1400 audit(0.0:332): avc: granted { execute } for path="/data/user/0/com.google.android.GoogleCameraEng/files/libpatched_jni.so" dev="dm-39" ino=1049272 scontext=u:r:untrusted_app_29:s0:c174,c256,c512,c768 tcontext=u:object_r:app_data_file:s0:c174,c256,c512,c768 tclass=file app=com.google.android.GoogleCameraEng
+05-13 18:08:59.732 11635 11635 W GcaLowPrio: type=1400 audit(0.0:333): avc: granted { execute } for path="/data/user/0/com.google.android.GoogleCameraEng/files/libpatched_jni.so" dev="dm-39" ino=1049272 scontext=u:r:untrusted_app_29:s0:c174,c256,c512,c768 tcontext=u:object_r:app_data_file:s0:c174,c256,c512,c768 tclass=file app=com.google.android.GoogleCameraEng
+--------- beginning of crash
+05-13 18:08:59.773 11635 11668 E AndroidRuntime: FATAL EXCEPTION: 00UiWorker
+05-13 18:08:59.773 11635 11668 E AndroidRuntime: Process: com.google.android.GoogleCameraEng, PID: 11635
+05-13 18:08:59.773 11635 11668 E AndroidRuntime: java.lang.RuntimeException: java.lang.IllegalArgumentException: No HDR+ compatible raw format supported.
+05-13 18:08:59.773 11635 11668 E AndroidRuntime: 	at lbg.run(Unknown Source:26)
+05-13 18:08:59.773 11635 11668 E AndroidRuntime: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+05-13 18:08:59.773 11635 11668 E AndroidRuntime: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:644)
+05-13 18:08:59.773 11635 11668 E AndroidRuntime: 	at java.lang.Thread.run(Thread.java:1012)
+05-13 18:08:59.773 11635 11668 E AndroidRuntime: 	at lab.run(Unknown Source:5)
+05-13 18:08:59.773 11635 11668 E AndroidRuntime: Caused by: java.util.concurrent.ExecutionException: java.lang.IllegalArgumentException: No HDR+ compatible raw format supported.
+05-13 18:08:59.773 11635 11668 E AndroidRuntime: 	at java.util.concurrent.FutureTask.report(FutureTask.java:122)
+05-13 18:08:59.773 11635 11668 E AndroidRuntime: 	at java.util.concurrent.FutureTask.get(FutureTask.java:191)
+05-13 18:08:59.773 11635 11668 E AndroidRuntime: 	at phe.get(Unknown Source:4)
+05-13 18:08:59.773 11635 11668 E AndroidRuntime: 	at lbg.run(Unknown Source:15)
+05-13 18:08:59.773 11635 11668 E AndroidRuntime: 	... 4 more
+05-13 18:08:59.773 11635 11668 E AndroidRuntime: Caused by: java.lang.IllegalArgumentException: No HDR+ compatible raw format supported.
+05-13 18:08:59.773 11635 11668 E AndroidRuntime: 	at pkr.h(Unknown Source:70)
+05-13 18:08:59.773 11635 11668 E AndroidRuntime: 	at pkr.v(Unknown Source:803)
+05-13 18:08:59.773 11635 11668 E AndroidRuntime: 	at eat.get(Unknown Source:152)
+05-13 18:08:59.773 11635 11668 E AndroidRuntime: 	at pyr.get(Unknown Source:13)
+05-13 18:08:59.773 11635 11668 E AndroidRuntime: 	at enl.a(Unknown Source:3)
+05-13 18:08:59.773 11635 11668 E AndroidRuntime: 	at dsd.get(Unknown Source:30)
+05-13 18:08:59.773 11635 11668 E AndroidRuntime: 	at pyr.get(Unknown Source:13)
+05-13 18:08:59.773 11635 11668 E AndroidRuntime: 	at dvd.get(Unknown Source:175)
+05-13 18:08:59.773 11635 11668 E AndroidRuntime: 	at pyr.get(Unknown Source:13)
+05-13 18:08:59.773 11635 11668 E AndroidRuntime: 	at kbj.get(Unknown Source:73)
+05-13 18:08:59.773 11635 11668 E AndroidRuntime: 	at pyr.get(Unknown Source:13)
+05-13 18:08:59.773 11635 11668 E AndroidRuntime: 	at eus.get(Unknown Source:335)
+05-13 18:08:59.773 11635 11668 E AndroidRuntime: 	at pyr.get(Unknown Source:13)
+05-13 18:08:59.773 11635 11668 E AndroidRuntime: 	at pyq.get(Unknown Source:4)
+05-13 18:08:59.773 11635 11668 E AndroidRuntime: 	at pyr.get(Unknown Source:13)
+05-13 18:08:59.773 11635 11668 E AndroidRuntime: 	at ewe.run(Unknown Source:60)
+05-13 18:08:59.773 11635 11668 E AndroidRuntime: 	at dks.run(Unknown Source:13)
+05-13 18:08:59.773 11635 11668 E AndroidRuntime: 	at bvr.run(Unknown Source:58)
+05-13 18:08:59.773 11635 11668 E AndroidRuntime: 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:487)
+05-13 18:08:59.773 11635 11668 E AndroidRuntime: 	at java.util.concurrent.FutureTask.run(FutureTask.java:264)
+05-13 18:08:59.773 11635 11668 E AndroidRuntime: 	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:307)
+05-13 18:08:59.773 11635 11668 E AndroidRuntime: 	at lbh.run(Unknown Source:2)
+05-13 18:08:59.773 11635 11668 E AndroidRuntime: 	at lbg.run(Unknown Source:0)
+05-13 18:08:59.773 11635 11668 E AndroidRuntime: 	... 4 more
+05-13 18:08:59.773 11635 11635 E CAM_A   : HalideRuntime.checkGcamHalideRuntime -> Failed
+05-13 18:08:59.775 11635 11635 D CameraManager2: GotArray:0
+05-13 18:08:59.775 11635 11635 D CameraManager2: GotArray:1
+05-13 18:08:59.775 11635 11635 D CameraManager2: GotArray:2
+05-13 18:08:59.786 11635 11635 W CAM_ActivityUiStartup: CameraActivityController failed!
+05-13 18:08:59.786 11635 11635 W CAM_ActivityUiStartup: java.lang.IllegalArgumentException: No HDR+ compatible raw format supported.
+05-13 18:08:59.786 11635 11635 W CAM_ActivityUiStartup: 	at pkr.h(Unknown Source:70)
+05-13 18:08:59.786 11635 11635 W CAM_ActivityUiStartup: 	at pkr.v(Unknown Source:803)
+05-13 18:08:59.786 11635 11635 W CAM_ActivityUiStartup: 	at eat.get(Unknown Source:152)
+05-13 18:08:59.786 11635 11635 W CAM_ActivityUiStartup: 	at pyr.get(Unknown Source:13)
+05-13 18:08:59.786 11635 11635 W CAM_ActivityUiStartup: 	at enl.a(Unknown Source:3)
+05-13 18:08:59.786 11635 11635 W CAM_ActivityUiStartup: 	at dsd.get(Unknown Source:30)
+05-13 18:08:59.786 11635 11635 W CAM_ActivityUiStartup: 	at pyr.get(Unknown Source:13)
+05-13 18:08:59.786 11635 11635 W CAM_ActivityUiStartup: 	at dvd.get(Unknown Source:175)
+05-13 18:08:59.786 11635 11635 W CAM_ActivityUiStartup: 	at pyr.get(Unknown Source:13)
+05-13 18:08:59.786 11635 11635 W CAM_ActivityUiStartup: 	at kbj.get(Unknown Source:73)
+05-13 18:08:59.786 11635 11635 W CAM_ActivityUiStartup: 	at pyr.get(Unknown Source:13)
+05-13 18:08:59.786 11635 11635 W CAM_ActivityUiStartup: 	at eus.get(Unknown Source:335)
+05-13 18:08:59.786 11635 11635 W CAM_ActivityUiStartup: 	at pyr.get(Unknown Source:13)
+05-13 18:08:59.786 11635 11635 W CAM_ActivityUiStartup: 	at pyq.get(Unknown Source:4)
+05-13 18:08:59.786 11635 11635 W CAM_ActivityUiStartup: 	at btj.d(Unknown Source:15)
+05-13 18:08:59.786 11635 11635 W CAM_ActivityUiStartup: 	at btj.a(Unknown Source:0)
+05-13 18:08:59.786 11635 11635 W CAM_ActivityUiStartup: 	at cak.run(Unknown Source:2)
+05-13 18:08:59.786 11635 11635 W CAM_ActivityUiStartup: 	at bwx.run(Unknown Source:82)
+05-13 18:08:59.786 11635 11635 W CAM_ActivityUiStartup: 	at android.os.Handler.handleCallback(Handler.java:942)
+05-13 18:08:59.786 11635 11635 W CAM_ActivityUiStartup: 	at android.os.Handler.dispatchMessage(Handler.java:99)
+05-13 18:08:59.786 11635 11635 W CAM_ActivityUiStartup: 	at android.os.Looper.loopOnce(Looper.java:201)
+05-13 18:08:59.786 11635 11635 W CAM_ActivityUiStartup: 	at android.os.Looper.loop(Looper.java:288)
+05-13 18:08:59.786 11635 11635 W CAM_ActivityUiStartup: 	at android.app.ActivityThread.main(ActivityThread.java:7941)
+05-13 18:08:59.786 11635 11635 W CAM_ActivityUiStartup: 	at java.lang.reflect.Method.invoke(Native Method)
+05-13 18:08:59.786 11635 11635 W CAM_ActivityUiStartup: 	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:569)
+05-13 18:08:59.786 11635 11635 W CAM_ActivityUiStartup: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1019)
+05-13 18:08:59.787 11635 11715 W CAM_ActivityUiStartup: Interactivity failed!
+05-13 18:08:59.787 11635 11715 W CAM_ActivityUiStartup: java.lang.IllegalArgumentException: No HDR+ compatible raw format supported.
+05-13 18:08:59.787 11635 11715 W CAM_ActivityUiStartup: 	at pkr.h(Unknown Source:70)
+05-13 18:08:59.787 11635 11715 W CAM_ActivityUiStartup: 	at pkr.v(Unknown Source:803)
+05-13 18:08:59.787 11635 11715 W CAM_ActivityUiStartup: 	at eat.get(Unknown Source:152)
+05-13 18:08:59.787 11635 11715 W CAM_ActivityUiStartup: 	at pyr.get(Unknown Source:13)
+05-13 18:08:59.787 11635 11715 W CAM_ActivityUiStartup: 	at enl.a(Unknown Source:3)
+05-13 18:08:59.787 11635 11715 W CAM_ActivityUiStartup: 	at dsd.get(Unknown Source:30)
+05-13 18:08:59.787 11635 11715 W CAM_ActivityUiStartup: 	at pyr.get(Unknown Source:13)
+05-13 18:08:59.787 11635 11715 W CAM_ActivityUiStartup: 	at dvd.get(Unknown Source:175)
+05-13 18:08:59.787 11635 11715 W CAM_ActivityUiStartup: 	at pyr.get(Unknown Source:13)
+05-13 18:08:59.787 11635 11715 W CAM_ActivityUiStartup: 	at kbj.get(Unknown Source:73)
+05-13 18:08:59.787 11635 11715 W CAM_ActivityUiStartup: 	at pyr.get(Unknown Source:13)
+05-13 18:08:59.787 11635 11715 W CAM_ActivityUiStartup: 	at eus.get(Unknown Source:335)
+05-13 18:08:59.787 11635 11715 W CAM_ActivityUiStartup: 	at pyr.get(Unknown Source:13)
+05-13 18:08:59.787 11635 11715 W CAM_ActivityUiStartup: 	at pyq.get(Unknown Source:4)
+05-13 18:08:59.787 11635 11715 W CAM_ActivityUiStartup: 	at btj.d(Unknown Source:15)
+05-13 18:08:59.787 11635 11715 W CAM_ActivityUiStartup: 	at btj.a(Unknown Source:0)
+05-13 18:08:59.787 11635 11715 W CAM_ActivityUiStartup: 	at cak.run(Unknown Source:2)
+05-13 18:08:59.787 11635 11715 W CAM_ActivityUiStartup: 	at bwx.run(Unknown Source:82)
+05-13 18:08:59.787 11635 11715 W CAM_ActivityUiStartup: 	at android.os.Handler.handleCallback(Handler.java:942)
+05-13 18:08:59.787 11635 11715 W CAM_ActivityUiStartup: 	at android.os.Handler.dispatchMessage(Handler.java:99)
+05-13 18:08:59.787 11635 11715 W CAM_ActivityUiStartup: 	at android.os.Looper.loopOnce(Looper.java:201)
+05-13 18:08:59.787 11635 11715 W CAM_ActivityUiStartup: 	at android.os.Looper.loop(Looper.java:288)
+05-13 18:08:59.787 11635 11715 W CAM_ActivityUiStartup: 	at android.app.ActivityThread.main(ActivityThread.java:7941)
+05-13 18:08:59.787 11635 11715 W CAM_ActivityUiStartup: 	at java.lang.reflect.Method.invoke(Native Method)
+05-13 18:08:59.787 11635 11715 W CAM_ActivityUiStartup: 	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:569)
+05-13 18:08:59.787 11635 11715 W CAM_ActivityUiStartup: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1019)
+--------- beginning of system
+05-13 18:08:59.790 11635 11635 D AppResolutionTuner: loadTunerAppList + 
+05-13 18:08:59.791 11635 11635 D AppResolutionTuner: loadTunerAppList - 
+05-13 18:08:59.792 11635 11635 D SurfaceExt: initResolutionTunner, mPackageName:com.google.android.GoogleCameraEng,mContainPackageName:falsemXScaleValue:1.0,mYScaleValue:1.0
+05-13 18:08:59.796 11635 11635 D AndroidRuntime: Shutting down VM
+05-13 18:08:59.796 11635 11635 E AndroidRuntime: FATAL EXCEPTION: main
+05-13 18:08:59.796 11635 11635 E AndroidRuntime: Process: com.google.android.GoogleCameraEng, PID: 11635
+05-13 18:08:59.796 11635 11635 E AndroidRuntime: java.lang.RuntimeException: java.lang.IllegalArgumentException: No HDR+ compatible raw format supported.
+05-13 18:08:59.796 11635 11635 E AndroidRuntime: 	at kqn.run(Unknown Source:9)
+05-13 18:08:59.796 11635 11635 E AndroidRuntime: 	at bwx.run(Unknown Source:82)
+05-13 18:08:59.796 11635 11635 E AndroidRuntime: 	at android.os.Handler.handleCallback(Handler.java:942)
+05-13 18:08:59.796 11635 11635 E AndroidRuntime: 	at android.os.Handler.dispatchMessage(Handler.java:99)
+05-13 18:08:59.796 11635 11635 E AndroidRuntime: 	at android.os.Looper.loopOnce(Looper.java:201)
+05-13 18:08:59.796 11635 11635 E AndroidRuntime: 	at android.os.Looper.loop(Looper.java:288)
+05-13 18:08:59.796 11635 11635 E AndroidRuntime: 	at android.app.ActivityThread.main(ActivityThread.java:7941)
+05-13 18:08:59.796 11635 11635 E AndroidRuntime: 	at java.lang.reflect.Method.invoke(Native Method)
+05-13 18:08:59.796 11635 11635 E AndroidRuntime: 	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:569)
+05-13 18:08:59.796 11635 11635 E AndroidRuntime: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1019)
+05-13 18:08:59.796 11635 11635 E AndroidRuntime: Caused by: java.lang.IllegalArgumentException: No HDR+ compatible raw format supported.
+05-13 18:08:59.796 11635 11635 E AndroidRuntime: 	at pkr.h(Unknown Source:70)
+05-13 18:08:59.796 11635 11635 E AndroidRuntime: 	at pkr.v(Unknown Source:803)
+05-13 18:08:59.796 11635 11635 E AndroidRuntime: 	at eat.get(Unknown Source:152)
+05-13 18:08:59.796 11635 11635 E AndroidRuntime: 	at pyr.get(Unknown Source:13)
+05-13 18:08:59.796 11635 11635 E AndroidRuntime: 	at enl.a(Unknown Source:3)
+05-13 18:08:59.796 11635 11635 E AndroidRuntime: 	at dsd.get(Unknown Source:30)
+05-13 18:08:59.796 11635 11635 E AndroidRuntime: 	at pyr.get(Unknown Source:13)
+05-13 18:08:59.796 11635 11635 E AndroidRuntime: 	at dvd.get(Unknown Source:175)
+05-13 18:08:59.796 11635 11635 E AndroidRuntime: 	at pyr.get(Unknown Source:13)
+05-13 18:08:59.796 11635 11635 E AndroidRuntime: 	at kbj.get(Unknown Source:73)
+05-13 18:08:59.796 11635 11635 E AndroidRuntime: 	at pyr.get(Unknown Source:13)
+05-13 18:08:59.796 11635 11635 E AndroidRuntime: 	at eus.get(Unknown Source:335)
+05-13 18:08:59.796 11635 11635 E AndroidRuntime: 	at pyr.get(Unknown Source:13)
+05-13 18:08:59.796 11635 11635 E AndroidRuntime: 	at pyq.get(Unknown Source:4)
+05-13 18:08:59.796 11635 11635 E AndroidRuntime: 	at btj.d(Unknown Source:15)
+05-13 18:08:59.796 11635 11635 E AndroidRuntime: 	at btj.a(Unknown Source:0)
+05-13 18:08:59.796 11635 11635 E AndroidRuntime: 	at cak.run(Unknown Source:2)
+05-13 18:08:59.796 11635 11635 E AndroidRuntime: 	... 9 more
+05-13 18:09:00.445 11635 11668 E CAM_A   : Uncaught exception in background thread
+05-13 18:09:00.445 11635 11668 E CAM_A   : java.lang.RuntimeException: java.lang.IllegalArgumentException: No HDR+ compatible raw format supported.
+05-13 18:09:00.445 11635 11668 E CAM_A   : 	at lbg.run(Unknown Source:26)
+05-13 18:09:00.445 11635 11668 E CAM_A   : 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+05-13 18:09:00.445 11635 11668 E CAM_A   : 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:644)
+05-13 18:09:00.445 11635 11668 E CAM_A   : 	at java.lang.Thread.run(Thread.java:1012)
+05-13 18:09:00.445 11635 11668 E CAM_A   : 	at lab.run(Unknown Source:5)
+05-13 18:09:00.445 11635 11668 E CAM_A   : Caused by: java.util.concurrent.ExecutionException: java.lang.IllegalArgumentException: No HDR+ compatible raw format supported.
+05-13 18:09:00.445 11635 11668 E CAM_A   : 	at java.util.concurrent.FutureTask.report(FutureTask.java:122)
+05-13 18:09:00.445 11635 11668 E CAM_A   : 	at java.util.concurrent.FutureTask.get(FutureTask.java:191)
+05-13 18:09:00.445 11635 11668 E CAM_A   : 	at phe.get(Unknown Source:4)
+05-13 18:09:00.445 11635 11668 E CAM_A   : 	at lbg.run(Unknown Source:15)
+05-13 18:09:00.445 11635 11668 E CAM_A   : 	... 4 more
+05-13 18:09:00.445 11635 11668 E CAM_A   : Caused by: java.lang.IllegalArgumentException: No HDR+ compatible raw format supported.
+05-13 18:09:00.445 11635 11668 E CAM_A   : 	at pkr.h(Unknown Source:70)
+05-13 18:09:00.445 11635 11668 E CAM_A   : 	at pkr.v(Unknown Source:803)
+05-13 18:09:00.445 11635 11668 E CAM_A   : 	at eat.get(Unknown Source:152)
+05-13 18:09:00.445 11635 11668 E CAM_A   : 	at pyr.get(Unknown Source:13)
+05-13 18:09:00.445 11635 11668 E CAM_A   : 	at enl.a(Unknown Source:3)
+05-13 18:09:00.445 11635 11668 E CAM_A   : 	at dsd.get(Unknown Source:30)
+05-13 18:09:00.445 11635 11668 E CAM_A   : 	at pyr.get(Unknown Source:13)
+05-13 18:09:00.445 11635 11668 E CAM_A   : 	at dvd.get(Unknown Source:175)
+05-13 18:09:00.445 11635 11668 E CAM_A   : 	at pyr.get(Unknown Source:13)
+05-13 18:09:00.445 11635 11668 E CAM_A   : 	at kbj.get(Unknown Source:73)
+05-13 18:09:00.445 11635 11668 E CAM_A   : 	at pyr.get(Unknown Source:13)
+05-13 18:09:00.445 11635 11668 E CAM_A   : 	at eus.get(Unknown Source:335)
+05-13 18:09:00.445 11635 11668 E CAM_A   : 	at pyr.get(Unknown Source:13)
+05-13 18:09:00.445 11635 11668 E CAM_A   : 	at pyq.get(Unknown Source:4)
+05-13 18:09:00.445 11635 11668 E CAM_A   : 	at pyr.get(Unknown Source:13)
+05-13 18:09:00.445 11635 11668 E CAM_A   : 	at ewe.run(Unknown Source:60)
+05-13 18:09:00.445 11635 11668 E CAM_A   : 	at dks.run(Unknown Source:13)
+05-13 18:09:00.445 11635 11668 E CAM_A   : 	at bvr.run(Unknown Source:58)
+05-13 18:09:00.445 11635 11668 E CAM_A   : 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:487)
+05-13 18:09:00.445 11635 11668 E CAM_A   : 	at java.util.concurrent.FutureTask.run(FutureTask.java:264)
+05-13 18:09:00.445 11635 11668 E CAM_A   : 	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:307)
+05-13 18:09:00.445 11635 11668 E CAM_A   : 	at lbh.run(Unknown Source:2)
+05-13 18:09:00.445 11635 11668 E CAM_A   : 	at lbg.run(Unknown Source:0)
+05-13 18:09:00.445 11635 11668 E CAM_A   : 	... 4 more
+05-13 18:09:00.446 11635 11668 E CAM_A   : Uncaught exception in background thread Thread[00UiWorker,5,main]
+05-13 18:09:00.446 11635 11668 E CAM_A   : java.lang.RuntimeException: java.lang.IllegalArgumentException: No HDR+ compatible raw format supported.
+05-13 18:09:00.446 11635 11668 E CAM_A   : 	at lbg.run(Unknown Source:26)
+05-13 18:09:00.446 11635 11668 E CAM_A   : 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+05-13 18:09:00.446 11635 11668 E CAM_A   : 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:644)
+05-13 18:09:00.446 11635 11668 E CAM_A   : 	at java.lang.Thread.run(Thread.java:1012)
+05-13 18:09:00.446 11635 11668 E CAM_A   : 	at lab.run(Unknown Source:5)
+05-13 18:09:00.446 11635 11668 E CAM_A   : Caused by: java.util.concurrent.ExecutionException: java.lang.IllegalArgumentException: No HDR+ compatible raw format supported.
+05-13 18:09:00.446 11635 11668 E CAM_A   : 	at java.util.concurrent.FutureTask.report(FutureTask.java:122)
+05-13 18:09:00.446 11635 11668 E CAM_A   : 	at java.util.concurrent.FutureTask.get(FutureTask.java:191)
+05-13 18:09:00.446 11635 11668 E CAM_A   : 	at phe.get(Unknown Source:4)
+05-13 18:09:00.446 11635 11668 E CAM_A   : 	at lbg.run(Unknown Source:15)
+05-13 18:09:00.446 11635 11668 E CAM_A   : 	... 4 more
+05-13 18:09:00.446 11635 11668 E CAM_A   : Caused by: java.lang.IllegalArgumentException: No HDR+ compatible raw format supported.
+05-13 18:09:00.446 11635 11668 E CAM_A   : 	at pkr.h(Unknown Source:70)
+05-13 18:09:00.446 11635 11668 E CAM_A   : 	at pkr.v(Unknown Source:803)
+05-13 18:09:00.446 11635 11668 E CAM_A   : 	at eat.get(Unknown Source:152)
+05-13 18:09:00.446 11635 11668 E CAM_A   : 	at pyr.get(Unknown Source:13)
+05-13 18:09:00.446 11635 11668 E CAM_A   : 	at enl.a(Unknown Source:3)
+05-13 18:09:00.446 11635 11668 E CAM_A   : 	at dsd.get(Unknown Source:30)
+05-13 18:09:00.446 11635 11668 E CAM_A   : 	at pyr.get(Unknown Source:13)
+05-13 18:09:00.446 11635 11668 E CAM_A   : 	at dvd.get(Unknown Source:175)
+05-13 18:09:00.446 11635 11668 E CAM_A   : 	at pyr.get(Unknown Source:13)
+05-13 18:09:00.446 11635 11668 E CAM_A   : 	at kbj.get(Unknown Source:73)
+05-13 18:09:00.446 11635 11668 E CAM_A   : 	at pyr.get(Unknown Source:13)
+05-13 18:09:00.446 11635 11668 E CAM_A   : 	at eus.get(Unknown Source:335)
+05-13 18:09:00.446 11635 11668 E CAM_A   : 	at pyr.get(Unknown Source:13)
+05-13 18:09:00.446 11635 11668 E CAM_A   : 	at pyq.get(Unknown Source:4)
+05-13 18:09:00.446 11635 11668 E CAM_A   : 	at pyr.get(Unknown Source:13)
+05-13 18:09:00.446 11635 11668 E CAM_A   : 	at ewe.run(Unknown Source:60)
+05-13 18:09:00.446 11635 11668 E CAM_A   : 	at dks.run(Unknown Source:13)
+05-13 18:09:00.446 11635 11668 E CAM_A   : 	at bvr.run(Unknown Source:58)
+05-13 18:09:00.446 11635 11668 E CAM_A   : 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:487)
+05-13 18:09:00.446 11635 11668 E CAM_A   : 	at java.util.concurrent.FutureTask.run(FutureTask.java:264)
+05-13 18:09:00.446 11635 11668 E CAM_A   : 	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:307)
+05-13 18:09:00.446 11635 11668 E CAM_A   : 	at lbh.run(Unknown Source:2)
+05-13 18:09:00.446 11635 11668 E CAM_A   : 	at lbg.run(Unknown Source:0)
+05-13 18:09:00.446 11635 11668 E CAM_A   : 	... 4 more
+05-13 18:09:01.652 11635 11635 W GcaGeneric-2: type=1400 audit(0.0:336): avc: granted { execute } for path="/data/user/0/com.google.android.GoogleCameraEng/files/libpatched_jni.so" dev="dm-39" ino=1049272 scontext=u:r:untrusted_app_29:s0:c174,c256,c512,c768 tcontext=u:object_r:app_data_file:s0:c174,c256,c512,c768 tclass=file app=com.google.android.GoogleCameraEng
+05-13 18:09:01.661 11635 11665 W CAM_CameraDeviceVerifie: Tag CameraDeviceVerifier is 1 chars longer than limit.
+05-13 18:09:01.676 11635 11653 W ProtoDataStoreFlagStore: Unable to retrieve flag snapshot for com.google.android.libraries.performance.primes#com.google.android.GoogleCameraEng, using defaults.
+05-13 18:09:01.701 11635 11665 D CameraManager2: GotArray:0
+05-13 18:09:01.701 11635 11665 D CameraManager2: GotArray:1
+05-13 18:09:01.702 11635 11665 D CameraManager2: GotArray:2
+05-13 18:09:01.707 11635 11670 D CameraManager2: GotArray:0
+05-13 18:09:01.707 11635 11670 D CameraManager2: GotArray:1
+05-13 18:09:01.707 11635 11670 D CameraManager2: GotArray:2
+05-13 18:09:01.708 11635 11635 W GcaGeneric-2: type=1400 audit(0.0:337): avc: granted { execute } for path="/data/user/0/com.google.android.GoogleCameraEng/files/libpatched_jni.so" dev="dm-39" ino=1049272 scontext=u:r:untrusted_app_29:s0:c174,c256,c512,c768 tcontext=u:object_r:app_data_file:s0:c174,c256,c512,c768 tclass=file app=com.google.android.GoogleCameraEng
+05-13 18:09:01.716 11635 11635 W GcaGeneric-2: type=1400 audit(0.0:338): avc: granted { execute } for path="/data/user/0/com.google.android.GoogleCameraEng/files/libpatched_jni.so" dev="dm-39" ino=1049272 scontext=u:r:untrusted_app_29:s0:c174,c256,c512,c768 tcontext=u:object_r:app_data_file:s0:c174,c256,c512,c768 tclass=file app=com.google.android.GoogleCameraEng
+05-13 18:09:01.723 11635 11665 E CAM_A   : HalideRuntime.checkGcamHalideRuntime -> Failed
+05-13 18:09:01.724 11635 11665 D CameraManager2: GotArray:0
+05-13 18:09:01.724 11635 11665 D CameraManager2: GotArray:1
+05-13 18:09:01.724 11635 11665 D CameraManager2: GotArray:2
+05-13 18:09:01.737 11635 11665 E pfx     : RuntimeException while executing runnable phj{laj@2ec9796} with executor MoreExecutors.directExecutor()
+05-13 18:09:01.737 11635 11665 E pfx     : java.lang.IllegalArgumentException: No HDR+ compatible raw format supported.
+05-13 18:09:01.737 11635 11665 E pfx     : 	at pkr.h(Unknown Source:70)
+05-13 18:09:01.737 11635 11665 E pfx     : 	at pkr.v(Unknown Source:803)
+05-13 18:09:01.737 11635 11665 E pfx     : 	at eat.get(Unknown Source:152)
+05-13 18:09:01.737 11635 11665 E pfx     : 	at pyr.get(Unknown Source:13)
+05-13 18:09:01.737 11635 11665 E pfx     : 	at enl.a(Unknown Source:3)
+05-13 18:09:01.737 11635 11665 E pfx     : 	at dsd.get(Unknown Source:30)
+05-13 18:09:01.737 11635 11665 E pfx     : 	at pyr.get(Unknown Source:13)
+05-13 18:09:01.737 11635 11665 E pfx     : 	at eba.a(Unknown Source:68)
+05-13 18:09:01.737 11635 11665 E pfx     : 	at laj.b(Unknown Source:2)
+05-13 18:09:01.737 11635 11665 E pfx     : 	at phj.run(Unknown Source:29)
+05-13 18:09:01.737 11635 11665 E pfx
